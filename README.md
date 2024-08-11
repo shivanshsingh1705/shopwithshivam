@@ -1,3 +1,4 @@
+## SHOP WITH SHIVANSH
 # Shopping Cart Project
 
 This project is a shopping cart built with React and Redux Toolkit. It includes two slices: `cart` and `theme`.
@@ -37,5 +38,5 @@ This project is a shopping cart built with React and Redux Toolkit. It includes 
 ## Deployment
 
 The project is deployed on Netlify. You can find it here.<br>
-https://super-cajeta-bbb997.netlify.app <br><br>
+https://shopwithshivam.netlify.app <br><br>
  Happy coding! 🛒🚀
