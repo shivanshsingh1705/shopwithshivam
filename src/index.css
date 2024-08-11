@@ -1,0 +1,17 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+body {
+  font-family: "Poppins", sans-serif;
+  min-height: 100vh;
+  background-color: #fff;
+}
+/* const lightMode = useSelector((state) => state.theme.lightMode); */
+/* className= {`bg-${!(lightMode) ? "gray-900" : "white"} text-${!(lightMode) ? "white" : "black"} h-[100vh]`} */
