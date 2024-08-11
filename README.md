@@ -37,5 +37,5 @@ This project is a shopping cart built with React and Redux Toolkit. It includes 
 ## Deployment
 
 The project is deployed on Netlify. You can find it here.<br>
-https://super-cajeta-bbb997.netlify.app
+https://super-cajeta-bbb997.netlify.app <br><br>
  Happy coding! 🛒🚀
